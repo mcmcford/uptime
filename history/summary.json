@@ -4,19 +4,19 @@
     "url": "https://www.mcford.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.mcford.co.uk",
     "slug": "mc-ford-photography",
-    "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
+    "time": 425,
+    "timeDay": 425,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2021-02-22": 28
+      "2021-02-22": 31
     }
   },
   {
