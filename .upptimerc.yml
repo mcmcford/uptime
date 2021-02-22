@@ -7,9 +7,9 @@ sites:
   - name: McFord Photography
     url: https://www.mcford.co.uk
     __dangerous__insecure: true
-   # headers:
-   # - "Authorization: Bearer https://www.mcford.co.uk"
-   # - "Content-Type: application/json"
+   headers:
+   - "Authorization: Bearer https://www.mcford.co.uk"
+   - "Content-Type: application/json"
   - name: Plex Media Server
     url: http://37.120.159.212:44444/web/index.html
   #- name: Hacker News
@@ -23,7 +23,7 @@ sites:
   #  url: $SECRET_SITE
 
 status-website:
-  theme: light
+  theme: dark
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: status.mcford.co.uk
   # Uncomment the following line if you don't have a custom domain and add your repo name
