@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: mcmcford # Your GitHub username
+repo: uptimetest # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -17,9 +17,6 @@ sites:
   #  url: https://www.google.com
   #- name: Secret Site
   #  url: $SECRET_SITE
-  
-  owner: mcmcford
-  repo: uptimetest
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
