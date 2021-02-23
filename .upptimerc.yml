@@ -14,8 +14,10 @@ sites:
     url: $PLEX_URL
   - name: P4 server
     url: $P4_SERVER
+   # __dangerous__insecure: true
   - name: Email Server
     url: $EMAIL_SERVER
+    __dangerous__insecure: true
   #- name: Test for HEAD
   #  method: HEAD
   #  url: https://www.google.com
