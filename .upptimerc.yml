@@ -14,9 +14,15 @@ sites:
     url: $PLEX_URL
   - name: P4 server
     url: $P4_SERVER
+    status-website: under maintenance 
+    assignees: # Users to assign downtime issues (optional)
+    - Morgan McFord
    # __dangerous__insecure: true
   - name: Email Server
     url: $EMAIL_SERVER
+    status-website: under maintenance 
+    assignees: # Users to assign downtime issues (optional)
+    - Morgan McFord
     __dangerous__insecure: true
   - name: TorrentServer
     url: $TS
