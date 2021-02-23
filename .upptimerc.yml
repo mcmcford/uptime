@@ -20,16 +20,16 @@ sites:
     assignees: # Users to assign downtime issues (optional)
     - Morgan McFord
    # __dangerous__insecure: true
-  - name: Email Server
-    url: $EMAIL_SERVER
-    icon: https://raw.githubusercontent.com/mcmcford/uptimetest/master/assets/Mailnew.ico
-    expectedStatusCodes:
-      - Quote command returned error
-      - 550
+  #- name: Email Server
+  #  url: $EMAIL_SERVER
+  #  icon: https://raw.githubusercontent.com/mcmcford/uptimetest/master/assets/Mailnew.ico
+  #  expectedStatusCodes:
+  #    - Quote command returned error
+  #    - 550
     # status-website: under maintenance 
-    assignees: # Users to assign downtime issues (optional)
-    - Morgan McFord
-    __dangerous__insecure: true
+  #  assignees: # Users to assign downtime issues (optional)
+  #  - Morgan McFord
+  #  __dangerous__insecure: true
   - name: Torrent Server
     url: $TS
     icon: https://raw.githubusercontent.com/mcmcford/uptimetest/master/assets/qbt.ico
