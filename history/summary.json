@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.mcford.co.uk",
     "slug": "mc-ford-photography",
     "status": "up",
-    "uptime": "68.86%",
-    "uptimeDay": "68.86%",
-    "uptimeWeek": "68.86%",
-    "uptimeMonth": "68.86%",
-    "uptimeYear": "68.86%",
+    "uptime": "68.88%",
+    "uptimeDay": "68.88%",
+    "uptimeWeek": "68.88%",
+    "uptimeMonth": "68.88%",
+    "uptimeYear": "68.88%",
     "time": 455,
     "timeDay": 455,
     "timeWeek": 455,
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-23": 35
+      "2021-02-23": 36
     }
   },
   {
@@ -63,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "email-server",
     "status": "down",
-    "uptime": "31.12%",
-    "uptimeDay": "31.12%",
-    "uptimeWeek": "31.12%",
-    "uptimeMonth": "31.12%",
-    "uptimeYear": "31.12%",
+    "uptime": "14.65%",
+    "uptimeDay": "14.65%",
+    "uptimeWeek": "14.65%",
+    "uptimeMonth": "14.65%",
+    "uptimeYear": "14.65%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
