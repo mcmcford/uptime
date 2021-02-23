@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.mcford.co.uk",
     "slug": "mc-ford-photography",
     "status": "up",
-    "uptime": "83.11%",
-    "uptimeDay": "83.11%",
-    "uptimeWeek": "83.11%",
-    "uptimeMonth": "83.11%",
-    "uptimeYear": "83.11%",
-    "time": 475,
-    "timeDay": 475,
-    "timeWeek": 475,
-    "timeMonth": 475,
-    "timeYear": 475,
+    "uptime": "83.53%",
+    "uptimeDay": "83.53%",
+    "uptimeWeek": "83.53%",
+    "uptimeMonth": "83.53%",
+    "uptimeYear": "83.53%",
+    "time": 476,
+    "timeDay": 476,
+    "timeWeek": 476,
+    "timeMonth": 476,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2021-02-22": 65
     }
@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex-media-server",
     "status": "up",
-    "uptime": "86.57%",
-    "uptimeDay": "86.57%",
-    "uptimeWeek": "86.57%",
-    "uptimeMonth": "86.57%",
-    "uptimeYear": "86.57%",
+    "uptime": "86.90%",
+    "uptimeDay": "86.90%",
+    "uptimeWeek": "86.90%",
+    "uptimeMonth": "86.90%",
+    "uptimeYear": "86.90%",
     "time": 231,
     "timeDay": 231,
     "timeWeek": 231,
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "p4-server",
     "status": "down",
-    "uptime": "0.25%",
-    "uptimeDay": "0.25%",
-    "uptimeWeek": "0.25%",
-    "uptimeMonth": "0.25%",
-    "uptimeYear": "0.25%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-23": 210
+      "2021-02-23": 220
     }
   },
   {
@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-23": 175
+      "2021-02-23": 184
     }
   },
   {
@@ -85,16 +85,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "torrent-server",
     "status": "up",
-    "uptime": "65.07%",
-    "uptimeDay": "65.07%",
-    "uptimeWeek": "65.07%",
-    "uptimeMonth": "65.07%",
-    "uptimeYear": "65.07%",
-    "time": 473,
-    "timeDay": 473,
-    "timeWeek": 473,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "uptime": "67.23%",
+    "uptimeDay": "67.23%",
+    "uptimeWeek": "67.23%",
+    "uptimeMonth": "67.23%",
+    "uptimeYear": "67.23%",
+    "time": 652,
+    "timeDay": 652,
+    "timeWeek": 652,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2021-02-23": 51
     }
