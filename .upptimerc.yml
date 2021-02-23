@@ -30,7 +30,7 @@ sites:
     url: $TWITCHY
 
 status-website:
-  theme: dark
+  theme: ocean
   # Add your custom domain below, or remove the next line if you don't have a domain
 
   # Uncomment the following line if you don't have a custom domain and add your repo name
@@ -46,6 +46,10 @@ status-website:
       href: https://www.mcford.co.uk
     - title: Discord
       href: https://discord.gg/EurHSFCcvP
+      
+commitMessages:
+  commitAuthorName: "Ford GT '05"
+  commitAuthorEmail: "morgan@mcford.co.uk"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
