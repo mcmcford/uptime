@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://mcmcford.github.io/uptimetest): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -26,7 +26,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit the status website →**](https://mcmcford.github.io/uptimetest)
 
-## 📄 License
+
+
+
+## 📄 License 📄 ##
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Upptime](https://upptime.js.org)
