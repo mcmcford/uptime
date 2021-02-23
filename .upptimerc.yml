@@ -15,7 +15,7 @@ sites:
   - name: P4 server
     url: $P4_SERVER
   - name: Email Server
-    url: &EMAIL_SERVER
+    url: $EMAIL_SERVER
   #- name: Test for HEAD
   #  method: HEAD
   #  url: https://www.google.com
