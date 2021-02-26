@@ -25,8 +25,7 @@ sites:
    __dangerous__insecure: true
    icon: https://cdn.discordapp.com/attachments/785818419969785876/802561338526007346/Aurelia.png
    __dangerous__body_down: "ERR_CONNECTION_REFUSED"
-   __dangerous__insecure: true
-    # status-website: under maintenance 
+  # status-website: under maintenance 
   #  assignees: # Users to assign downtime issues (optional)
   #  - Morgan McFord
   #  __dangerous__insecure: true
