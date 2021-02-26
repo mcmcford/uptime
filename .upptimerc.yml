@@ -24,6 +24,7 @@ sites:
     url: $AURELIA
     method: POST
     __dangerous__insecure: true
+    headers:
       - "Content-Type: application/json"
     body: '{ "Protocol Version": "754" },{"Server Address":"37.187.24.224"},{"Server Port":"25603"},{"Next state":"1"}'
   #  __dangerous__body_down: "ERR_CONNECTION_REFUSED"
