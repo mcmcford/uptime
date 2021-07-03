@@ -8,7 +8,7 @@
     "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "71.58%",
-    "uptimeMonth": "92.97%",
+    "uptimeMonth": "92.99%",
     "uptimeYear": "98.23%",
     "time": 889,
     "timeDay": 1003,
@@ -84,9 +84,9 @@
     "url": "$TS",
     "icon": "https://raw.githubusercontent.com/mcmcford/uptimetest/master/assets/qbt.ico",
     "slug": "torrent-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.01%",
     "uptimeYear": "98.83%",
@@ -96,6 +96,7 @@
     "timeMonth": 297,
     "timeYear": 335,
     "dailyMinutesDown": {
+      "2021-07-03": 0,
       "2021-06-05": 1324,
       "2021-06-04": 426,
       "2021-05-12": 44,
@@ -109,18 +110,16 @@
     "icon": "https://github.com/mcmcford/uptimetest/blob/master/assets/TWITCHY%20PINK%20LOGO.jpg?raw=true",
     "slug": "twitchy-server",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 277,
     "timeDay": 292,
     "timeWeek": 261,
     "timeMonth": 257,
     "timeYear": 277,
-    "dailyMinutesDown": {
-      "2021-07-03": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
