@@ -32,11 +32,11 @@
     "url": "$PLEX_URL",
     "icon": "https://cleverdevil.io/file/352fbde6114d1620746cc0d32e9fadad",
     "slug": "plex-media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "98.82%",
     "time": 390,
     "timeDay": 427,
@@ -44,6 +44,7 @@
     "timeMonth": 350,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2021-08-04": 2,
       "2021-07-15": 496,
       "2021-07-14": 40,
       "2021-07-08": 23,
@@ -88,10 +89,10 @@
     "url": "$TS",
     "icon": "https://raw.githubusercontent.com/mcmcford/uptimetest/master/assets/qbt.ico",
     "slug": "torrent-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "98.82%",
     "time": 473,
@@ -100,6 +101,7 @@
     "timeMonth": 1148,
     "timeYear": 473,
     "dailyMinutesDown": {
+      "2021-08-04": 1,
       "2021-07-15": 496,
       "2021-07-14": 39,
       "2021-07-08": 23,
@@ -116,9 +118,9 @@
     "url": "$TWITCHY",
     "icon": "https://github.com/mcmcford/uptimetest/blob/master/assets/TWITCHY%20PINK%20LOGO.jpg?raw=true",
     "slug": "twitchy-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,6 +129,8 @@
     "timeWeek": 366,
     "timeMonth": 294,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-04": 0
+    }
   }
 ]
